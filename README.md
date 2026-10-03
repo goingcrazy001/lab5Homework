@@ -16,7 +16,7 @@
 
 ## Реализация программы
 Программа написана на языке C++
-```
+```ccp
 #include <stdio.h>
 #include <locale.h>
 #include <math.h>
